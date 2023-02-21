@@ -1,0 +1,35 @@
+{
+  "id" : "1",
+  "type" : "struct",
+  "fields" : [ {
+    "name" : "creditScore",
+    "type" : "float64",
+    "nullable" : true,
+    "jsonName" : "creditScore"
+  }, {
+    "name" : "income",
+    "type" : "float64",
+    "nullable" : true,
+    "jsonName" : "income"
+  }, {
+    "name" : "loanAmount",
+    "type" : "float64",
+    "nullable" : true,
+    "jsonName" : "loanAmount"
+  }, {
+    "name" : "monthDuration",
+    "type" : "float64",
+    "nullable" : true,
+    "jsonName" : "monthDuration"
+  }, {
+    "name" : "rate",
+    "type" : "float64",
+    "nullable" : true,
+    "jsonName" : "rate"
+  }, {
+    "name" : "yearlyReimbursement",
+    "type" : "float64",
+    "nullable" : true,
+    "jsonName" : "yearlyReimbursement"
+  } ]
+}

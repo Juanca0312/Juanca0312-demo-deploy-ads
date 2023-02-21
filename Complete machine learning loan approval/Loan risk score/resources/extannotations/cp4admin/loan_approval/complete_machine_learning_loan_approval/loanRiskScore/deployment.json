@@ -1,0 +1,30 @@
+{
+  "metadata" : {
+    "id" : "585c7eaa-e311-47fb-854f-44e56d37ee4e",
+    "name" : "Payment Default deployment",
+    "description" : "Online deployment of Loan payment default predictive service in pmml",
+    "modified_at" : "2023-02-16T21:07:37.442Z",
+    "created_at" : "2023-02-16T21:07:37.442Z",
+    "owner" : "IBMid-661003VP9M",
+    "space_id" : "ef220a77-8f22-4fcd-ac48-5984cbacdaf5"
+  },
+  "entity" : {
+    "name" : "Payment Default deployment",
+    "space_id" : "ef220a77-8f22-4fcd-ac48-5984cbacdaf5",
+    "custom" : { },
+    "online" : { },
+    "description" : "Online deployment of Loan payment default predictive service in pmml",
+    "status" : {
+      "state" : "ready",
+      "online_url" : {
+        "url" : "https://us-south.ml.cloud.ibm.com/ml/v4/deployments/585c7eaa-e311-47fb-854f-44e56d37ee4e/predictions"
+      }
+    },
+    "asset" : {
+      "id" : "32840de1-8f04-4b98-8ade-42d676257ea8"
+    }
+  },
+  "name" : "Payment Default deployment",
+  "status" : "ready",
+  "deployedAt" : "2023-02-16T21:07:37.442Z"
+}

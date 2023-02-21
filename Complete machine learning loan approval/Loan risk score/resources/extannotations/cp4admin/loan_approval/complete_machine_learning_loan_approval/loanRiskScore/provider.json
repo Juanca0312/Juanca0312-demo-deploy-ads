@@ -1,0 +1,9 @@
+{
+  "name" : "cp4admin/Loan-Approval/wml-complete1676952072793",
+  "type" : "WML",
+  "description" : "",
+  "mlUrl" : "https://us-south.ml.cloud.ibm.com/ml/v4",
+  "authUrl" : "https://iam.cloud.ibm.com/identity/token",
+  "instanceId" : "ef220a77-8f22-4fcd-ac48-5984cbacdaf5",
+  "apiKey" : null
+}
